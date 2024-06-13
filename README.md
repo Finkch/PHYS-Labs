@@ -1,6 +1,6 @@
 # PHYS Labs
 
-Upper year undergraduate physics labs. Data collected and Python/Jupyter data analytics scripts. The folder contents are a bit of a mess, since each project was closer to a physics experiment than rigourous software development. Here, GitHub is being used as an additional storage backup solution.  
+Upper year undergraduate physics labs. Data collected, Python/Jupyter Notebook data analytics scripts, graphs, and formal reports. The folder contents are a bit of a mess, since each project was closer to a physics experiment than rigourous software development. Here, GitHub is being used as an additional storage backup solution.  
 
 These labs are unmodified from when they were retrieved, with the exception of the names of collaborators have been removed for privacy's sake (all labs were performed with a partner). Since these labs were of the form of an investigation rather than questions and answers, unscrupulous students hoping to skip their lab duties won't find much use here, other than as a reference - always cite your sources!  
 
