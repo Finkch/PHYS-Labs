@@ -2,7 +2,7 @@
 
 Upper year undergraduate physics labs. Data collected and Python/Jupyter data analytics scripts. The folder contents are a bit of a mess, since each project was closer to a physics experiment than rigourous software development. Here, GitHub is being used as an additional storage backup solution.  
 
-These labs are unmodified from when they were retrieved, with the exception of the names of collaborators have been removed for privacy's sake. Since these labs were of the form of an investigation rather than questions and answers, unscrupulous students hoping to skip their lab duties won't find much use here, other than as a reference - always cite your sources!  
+These labs are unmodified from when they were retrieved, with the exception of the names of collaborators have been removed for privacy's sake (all labs were performed with a partner). Since these labs were of the form of an investigation rather than questions and answers, unscrupulous students hoping to skip their lab duties won't find much use here, other than as a reference - always cite your sources!  
 
 Between years three and four, there are a total of four physics labs: [Wireless Power Transfer](#wireless-power-transfer), [Gravitational Constant](#gravitational-constant), [Faraday Rotation](#faraday-rotation), and [Muon Lifetime](#muon-lifetime). There is also a report and graphs from a second year lab, [Stirling Cycle](#stirling-cycle), but unfortunately most of the code was lost when my student account was terminated upon graduation.  
 
